@@ -1,1 +1,1 @@
-hockey <- read.csv()
+hockey <- read.csv("csv/1920_Hockey.txt")

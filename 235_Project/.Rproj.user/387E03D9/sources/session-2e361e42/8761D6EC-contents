@@ -1,0 +1,13 @@
+---
+title: "CSV Creation"
+format: html
+editor: visual
+---
+
+```{r}
+hockey1 <- read.csv("1920_Hockey.txt")
+```
+
+```{r}
+head(hockey1)
+```
